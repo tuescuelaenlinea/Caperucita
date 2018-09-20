@@ -2,3 +2,6 @@ cuento
 
 
 Este e sun ejercicio de gardar verciones de el cuento craandoi puntos y realizando comprobaciones
+
+
+este es otro cambio que se realiza para verificar las versiones
